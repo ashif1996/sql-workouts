@@ -21,7 +21,8 @@ Explore this comprehensive [SQL Roadmap](https://roadmap.sh/sql) to master SQL s
 ✅ Manage transactions and ensure data integrity  
 ✅ Real-world applications and best practices  
 
-> Click the link below to dive into the roadmap:  
+> Additional Resources:  
 🎯 [SQL Roadmap](https://roadmap.sh/sql)  
+📚 [SQL Week 19 Notes](https://bronotes.super.site/week-19-sql)  
 
 Happy Learning! 💻  
